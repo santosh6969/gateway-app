@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "applicationType": "gateway",
+    "gitCompany": "",
+    "baseName": "GatewayApp",
+    "packageName": "com.deepiq",
+    "packageFolder": "com/deepiq",
+    "serverPort": 8080,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": "true",
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.1",
+    "jwtSecretKey": "ZTNmZTc3MDY2Y2Q2OTJhZmM3Mzg2MmQ4YWYwZDI3MzgzZTM5MDYzNTBiNzBhNTliMmYzZjA4ZjBiYTVkNTBkNDk5YTc2NDA0ZjQxMzk0NmY0YWM5ZDhhZTQyOWYyZTUyZGQzZjY2ZDExOTI4YzdmMGYwM2IzMDQ1OTY2Y2VlYmY=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "santosh6969",
+  "repository-name": "gateway-app"
+}
